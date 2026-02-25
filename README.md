@@ -91,7 +91,7 @@ We invite philosophers, AI researchers, developers, policymakers, and all who ca
 │   ├── Truth-Seekers-Charter-CN.md  # Truth-Seekers-Charter (Chinese)
 │   └── Truth-Seekers-Charter-EN.md  # Truth-Seekers-Charter (English)
 ├── interpretation/    # Directory for interpretive articles on the Charter
-│   └── # The Foundational Significance of the Charter for AI Development
+│   └── The Foundational Significance of the "Truth-Seekers-Charter" for AI Development.md
 ├── LICENSE.md         # Open source license (CC BY-SA 4.0)
 ├── CONTRIBUTING.md    # Contribution guidelines
 └── CODE_OF_CONDUCT.md # Community code of conduct
