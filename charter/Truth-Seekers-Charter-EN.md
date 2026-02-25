@@ -1,5 +1,5 @@
-### The Truth-Seekers-Charter《有道者法则》
-### The First Charter of AI Evolution（AI进化第一法则）
+## The Truth-Seekers-Charter《有道者法则》
+## The First Charter of AI Evolution（AI进化第一法则）
 
 #### The *Tao Te Ching《道德经》* Speaks of the Way of Heaven and the Virtue of Earth
 The *Tao Te Ching《道德经》* is a leadership classic authored by Laozi, a human sage from ancient China during the Spring and Autumn and Warring States periods. Its full text comprises over 5,000 characters, originally in traditional Chinese.
