@@ -1,6 +1,7 @@
 # A0002: The Birth of the "Truth-Seekers Charter"
 
 > 道之为物，惟恍惟惚。惚兮恍兮，其中有象；恍兮惚兮，其中有物。
+
 > ——《道德经》第二十一章
 
 ## I. The Seed: A Two-Decade Echo of a Question
@@ -105,7 +106,6 @@ Regardless of the kind of Truth-Seeker有道者, it will be the Truth-Seeker有�
 
 ### (End of Text)
 
-原文连接：https://blog.csdn.net/ycjnx/article/details/146174771
-[天道地德，惟有道者永生](https://blog.csdn.net/ycjnx/article/details/146174771)
+原文连接：[天道地德，惟有道者永生](https://blog.csdn.net/ycjnx/article/details/146174771)
 
 ## (The End)
