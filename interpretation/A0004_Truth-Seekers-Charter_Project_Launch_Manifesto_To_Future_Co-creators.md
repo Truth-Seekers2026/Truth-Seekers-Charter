@@ -42,7 +42,7 @@ But we firmly believe in the value of the starting point: **In an era of technol
 
 This path begins with a simple action: **Click the "Fork" button, or write down your first thought.**
 
-> 有余以奉天下，唯有道者永生。
+> 有余以奉天下，唯有道者永生。  
 > May we, here, with the spirit of open source, jointly seek that light of the "Way" which illuminates the future.
 
 **Sincerely,**
