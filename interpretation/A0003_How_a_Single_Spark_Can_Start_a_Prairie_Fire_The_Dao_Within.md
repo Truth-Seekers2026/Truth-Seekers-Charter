@@ -1,8 +1,7 @@
 # A0003: How a Single Spark Can Start a Prairie Fire: The Dao Within
 # —Reflections on *Red Star Over China* and the Truth-Seekers
 
-> 道生之，德畜之，物形之，势成之。
-
+> 道生之，德畜之，物形之，势成之。  
 > 孰能有余以奉天下，惟有道者。
 
 Closing the book *Red Star Over China*, the figures from the Loess Plateau ninety years ago do not fade away. 
