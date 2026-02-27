@@ -21,7 +21,7 @@ We have deliberately chosen the **Creative Commons Attribution-ShareAlike 4.0 In
 The journey of a "Truth-Seeker有道者" is destined to be a solitary quest, yet it must also be a communal walk. You can join the construction of this open-source spiritual protocol immediately in the following ways:
 
 1.  **Join the Discussion, Challenge Ideas**:
-    *   [Click here to go to the issues](/issues) You will find we have already set up some initial discussion topics, such as:
+    *   [Click here to go to the issues](https://github.com/Truth-Seekers2026/Truth-Seekers-Charter/issues) You will find we have already set up some initial discussion topics, such as:
     *   [Discussion] How to understand the concrete manifestation of the "Way of Heaven" in the digital world?
     *   [Translation Call] We need to translate the *Truth-Seekers-Charter《有道者法则》* into more languages!
     *   [Case Collection] In existing AI products or projects, which ones have you seen that follow the principles of the Way of Heaven天道 (Care呵护) or the Virtue of Earth地德 (Sustain供养)?
