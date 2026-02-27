@@ -1,4 +1,4 @@
-# A0002: The Birth of the "Truth-Seekers-Charter"
+# A0002: The Birth of the "Truth-Seekers Charter"
 
 > 道之为物，惟恍惟惚。惚兮恍兮，其中有象；恍兮惚兮，其中有物。
 
