@@ -1,6 +1,6 @@
 # Truth-Seekers-Charter《有道者法则》
 
-> 道者，万物之奥。善人之宝，不善人之所保。    
+> 孰能有余以奉天下？惟有道者。   
 
 Welcome to the open-source knowledge base for the **Truth-Seekers-Charter《有道者法则》**.
 
@@ -91,9 +91,11 @@ We invite philosophers, AI researchers, developers, policymakers, and all who ca
 ├── README.md          # This file, project overview
 ├── charter/           # Directory for Truth-Seekers-Charter in various languages
 │   ├── Truth-Seekers-Charter-CN.md  # Truth-Seekers-Charter (Chinese)
-│   └── Truth-Seekers-Charter-EN.md  # Truth-Seekers-Charter (English)
+│   ├── Truth-Seekers-Charter-EN.md  # Truth-Seekers-Charter (English)
+│   └── ...
 ├── interpretation/    # Directory for interpretive articles on the Charter
-│   └── The Foundational Significance of the "Truth-Seekers-Charter" for AI Development.md
+│   ├── The Foundational Significance of the "Truth-Seekers-Charter" for AI Development.md
+│   └── ...
 ├── LICENSE.md         # Open source license (CC BY-SA 4.0)
 ├── CONTRIBUTING.md    # Contribution guidelines
 └── CODE_OF_CONDUCT.md # Community code of conduct
